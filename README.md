@@ -1,4 +1,4 @@
-# Redis in Python - README
+# Redis in Python
 
 This repository provides a Python client for interacting with Redis, an open-source, in-memory data structure store. The Redis client library allows you to connect to a Redis server and perform various operations such as storing, retrieving, and manipulating data using Python.
 
